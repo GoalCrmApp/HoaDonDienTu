@@ -3,8 +3,8 @@
 # Tài Liệu API Hóa Đơn Điện Tử VinVoice
 
 > **Phiên bản**: 1.0  
-> **Base URL**: `https://api-vinvoice.viettel.vn`
-
+> **Base URL đăng nhập lấy token**: `https://api-vinvoice.viettel.vn`
+> **Base url chạy api** : `https://api-vinvoice.viettel.vn/services/einvoiceapplication` #https://api-vinvoice.viettel.vn/services/einvoiceapplication/api/InvoiceAPI/InvoiceWS/createInvoice/0100109106-509 tạo hóa đơn
 ## Mục Lục
 
 1. [Giới Thiệu](#giới-thiệu)
