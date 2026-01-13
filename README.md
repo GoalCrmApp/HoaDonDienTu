@@ -3,8 +3,7 @@
 # Tài Liệu API Hóa Đơn Điện Tử VinVoice
 
 > **Phiên bản**: 1.0  
-> **Base URL**: `https://api-vinvoice.viettel.vn/services/einvoiceapplication/api`  
-> **Portal URL**: `https://vinvoice.viettel.vn/api/services/einvoiceapplication/api`
+> **Base URL**: `https://api-vinvoice.viettel.vn`
 
 ## Mục Lục
 
